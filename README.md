@@ -13,11 +13,13 @@
         <section>
             <h2>About</h2>
             <p>
+                <div align="justify"> 
               I'm a passionate data scientist, who uncovers insights and trends from complex datasets to drive data-driven decision making. 
               I start each project with data collection and cleaning, then moving on to exploratory data analysis and predictive modeling. 
               I'm experienced in a variety of statistical and machine learning techniques and I'm always looking for new and innovative ways to solve problems.
               I'm also a strong communicator who is able to translate complex data insights into actionable recommendations for stakeholders. 
               I believe that data science has the power to drive real-world impact and I'm dedicated to making that a reality through my work.
+                </div>
             </p>
         </section>
         <section>
