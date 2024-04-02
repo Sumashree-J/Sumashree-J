@@ -51,3 +51,6 @@
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="DB" width="30px" style="padding-right:10px;" src="https://asset.brandfetch.io/idSUrLOWbH/idrYS6Edpl.svg" />
 <br />
+
+### Certifications
+<a href = "https://www.hackerrank.com/certificates/19e320fd00f0"><img align="left" alt="HackerRank" width="30px" style="padding-right:10px;" src="https://github.com/Sumashree-J/Sumashree-J/blob/main/hackerrank.svg"/></a> SQL (Advanced) Certificate
