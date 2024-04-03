@@ -6,8 +6,15 @@
 </head>
 <body>
     <header>
-        <h1>Sumashree Javaji</h1>
-        <p>Data Scientist <img align="left" alt="Mu Sigma" width="30px" style="padding-right:10px;" src="https://asset.brandfetch.io/idCPcvDpAT/idr4BVNgqv.png"/><img align="left" alt="Amazon" width="30px" style="padding-right:10px;" src="https://asset.brandfetch.io/idawOgYOsG/idisSB3V3T.svg"/>
+        <h2>Sumashree Javaji 
+      <a href="https://www.linkedin.com/in/sumashree-javaji/" target="_blank"><img alt="LinkedIn" width="18px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+        </h2>
+<div style="display:flex; justify-content:space-between;">
+   <p style="display: inline-block;">
+      <img alt="Mu Sigma" width="40px" style="padding-right:10px;" src="https://asset.brandfetch.io/idCPcvDpAT/idr4BVNgqv.png"/>&emsp; 
+      <img alt="Amazon" width="80px" style="padding-right:10px;" src="https://asset.brandfetch.io/idawOgYOsG/idisSB3V3T.svg"/>&emsp; 
+      <img alt="UC Davis" width="80px" style="padding-right:10px;" src="https://asset.brandfetch.io/idjQRHRamw/idEvNFyfy-.svg"/>
+</div>
     </header>
     <main>
         <section>
