@@ -60,8 +60,8 @@
 <br />
 
 ### Certifications
-<a href = "https://www.hackerrank.com/certificates/19e320fd00f0"><img align="left" alt="HackerRank" width="30px" style="padding-right:10px;" src="https://github.com/Sumashree-J/Sumashree-J/blob/main/hackerrank.svg"/></a> SQL (Advanced) Certificate
+<a href = "https://www.hackerrank.com/certificates/19e320fd00f0"><img align="left" alt="HackerRank" width="30px" style="padding-right:10px;" src="https://github.com/Sumashree-J/Sumashree-J/blob/main/hackerrank.svg"/>SQL (Advanced) Certificate</a>
 
-<a href = "https://www.cloudskillsboost.google/public_profiles/d9e17d9b-8143-4373-8971-001680fe5416/badges/8569802"><img align="left" alt="Gen AI" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Sumashree-J/Sumashree-J/main/google-cloud.webp"/></a> Introduction to Generative AI
+<a href = "https://www.cloudskillsboost.google/public_profiles/d9e17d9b-8143-4373-8971-001680fe5416/badges/8569802"><img align="left" alt="Gen AI" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Sumashree-J/Sumashree-J/main/google-cloud.webp"/>Introduction to Generative AI</a>
 
-<a href = "https://www.cloudskillsboost.google/public_profiles/d9e17d9b-8143-4373-8971-001680fe5416/badges/8570907"><img align="left" alt="LLM" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Sumashree-J/Sumashree-J/main/google-cloud.webp"/></a> Introduction to Large Language Models
+<a href = "https://www.cloudskillsboost.google/public_profiles/d9e17d9b-8143-4373-8971-001680fe5416/badges/8570907"><img align="left" alt="LLM" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Sumashree-J/Sumashree-J/main/google-cloud.webp"/>Introduction to Large Language Models</a> 
