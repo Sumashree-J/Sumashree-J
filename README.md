@@ -65,3 +65,6 @@
 <a href = "https://www.cloudskillsboost.google/public_profiles/d9e17d9b-8143-4373-8971-001680fe5416/badges/8569802"><img align="left" alt="Gen AI" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Sumashree-J/Sumashree-J/main/google-cloud.webp"/>Introduction to Generative AI</a>
 
 <a href = "https://www.cloudskillsboost.google/public_profiles/d9e17d9b-8143-4373-8971-001680fe5416/badges/8570907"><img align="left" alt="LLM" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Sumashree-J/Sumashree-J/main/google-cloud.webp"/>Introduction to Large Language Models</a> 
+
+<a href = "https://www.parchment.com/u/award/bfd9d477d74b250f3b9bf00f418d0fcd"><img align="left" alt="LLM" width="30px" style="padding-right:10px;" src="https://github.com/Sumashree-J/Sumashree-J/blob/main/6sigma.webp"/>Lean Six Sigma Green Belt</a> 
+
